@@ -1,3 +1,6 @@
+-- LEANTest/00_BasicProofs.lean
+module
+
 -- Para revisar teoremas existentes:
 #check Nat.add_zero -- n+0=n
 #check Nat.add_succ -- n+m.succ = (n+m).succ

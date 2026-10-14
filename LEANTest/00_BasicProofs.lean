@@ -1,3 +1,6 @@
+-- LEANTest/00_BasicProofs.lean
+module
+
 -- Demostración básica
 example
   -- objetos
